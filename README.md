@@ -1,0 +1,1 @@
+Nestjs with graphql(CODE FIRST :queries, subscriptions(websocket), mutations, no fragment), Angular 13 with apollo-angular(only one-two components, without lazy-loading, onpush, etc.), DB sqlite. This app was done as test task.
